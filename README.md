@@ -116,7 +116,7 @@ Note: Make Sure Add Your Email And Password ( Required In mega.js ) Before Runni
 ## OTHER PROJECTS:
 
 - [PASTE SESSION](https://github.com/dawens-boy2/Pair-code)
-- [WHATSAPP BOT](https://github.com/dawens-boy/ZaryaBot-V1)
+- [WHATSAPP BOT](https://github.com/dawens-boy2/ZaryaBot-V1)
 - [TELEGRAM BOT](https://github.com/GlobalTechInfo/TELEGRAM-AI#readme)
 
 
